@@ -206,9 +206,13 @@ The following results were obtained during initial model experimentation. They s
 Metric | Logistic Regression | Random Forest
 
 Accuracy | 79.77% | 77.43%
+
 Churn Precision | 65.08% | 56.67%
+
 Churn Recall | 51.34% | 63.64%
+
 Churn F1-score | 0.5740 | 0.5995
+
 ROC-AUC | 0.8425 | 0.8346
 
 Preliminary Observations
