@@ -225,6 +225,7 @@ Model selection depends on the business trade-off between missed churners and fa
 
 Note: These are preliminary results from model experimentation and may change after final retraining and evaluation.
 
+
 Feature Importance
 
 Random Forest feature importance was used to identify features that contributed most to predictions.
@@ -234,14 +235,23 @@ Top features from the initial model included:
 Feature - Importance
 
 Tenure - 0.1115
+
 TotalCharges - 0.1082
+
 MonthlyCharges - 0.0968
+
 Month-to-month Contract - 0.0863
+
 OnlineSecurity = No - 0.0502
+
 Two-year Contract - 0.0435
+
 TechSupport = No - 0.0331
+
 Fiber optic Internet - 0.0329
+
 Electronic check Payment - 0.0322
+
 These results indicate that customer tenure, billing information, contract type, and subscribed services are important predictive features.
 
 Feature importance represents predictive contribution and does not establish causation.
