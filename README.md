@@ -43,44 +43,31 @@ Columns: 21
 
 Important Features
 
-Feature
-Description
+Feature-Description
 
-CustomerID
-Unique customer identifier
+CustomerID-Unique customer identifier
 
-Gender
-Customer gender
+Gender-Customer gender
 
-SeniorCitizen
-Whether the customer is a senior citizen
+SeniorCitizen-Whether the customer is a senior citizen
 
-Partner
-Whether the customer has a partner
+Partner-Whether the customer has a partner
 
-Dependents
-Whether the customer has dependents
+Dependents-Whether the customer has dependents
 
-Tenure
-Number of months the customer has stayed
+Tenure-Number of months the customer has stayed
 
-InternetService
-Type of internet service
+InternetService-Type of internet service
 
-Contract
-Contract type
+Contract-Contract type
 
-PaymentMethod
-Customer payment method
+PaymentMethod-Customer payment method
 
-MonthlyCharges
-Monthly customer charges
+MonthlyCharges-Monthly customer charges
 
-TotalCharges
-Total charges accumulated
+TotalCharges-Total charges accumulated
 
-Churn
-Whether the customer left the company
+Churn-Whether the customer left the company
 Target variable: Churn
 Yes → Customer churned
 No → Customer retained
@@ -88,29 +75,29 @@ No → Customer retained
 
 Tools & Technologies
 
-Tool/Purpose
+Tool / Purpose
 
-Python/Data cleaning, EDA, and machine learning
+Python / Data cleaning, EDA, and machine learning
 
-Pandas & NumPy/Data manipulation
+Pandas & NumPy / Data manipulation
+ 
+Matplotlib & Seaborn / Data visualization
 
-Matplotlib & Seaborn/Data visualization
+MySQL / SQL-based analysis
 
-MySQL/SQL-based analysis
+Power BI / Interactive dashboard
 
-Power BI/Interactive dashboard
+Microsoft Azure SQL Database / Cloud data storage
 
-Microsoft Azure SQL Database/Cloud data storage
+Azure Blob Storage / Dataset storage
 
-Azure Blob Storage/Dataset storage
+Azure Data Factory / ETL pipeline
 
-Azure Data Factory/ETL pipeline
+Scikit-learn / Machine learning
 
-Scikit-learn/Machine learning
+Google Colab / ML development environment
 
-Google Colab/ML development environment
-
-Git & GitHub/Version control and project portfolio
+Git & GitHub / Version control and project portfolio
 
 Project Workflow
 
